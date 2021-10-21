@@ -19,14 +19,14 @@ def i_command():
             voice = listener.listen(source)
             command = listener.recognize_google(voice)
             command = command.lower()
-            if 'myalexa' in command:
-                command = command.replace('myalexa','')
+            if 'myassistant' in command:
+                command = command.replace('myassistant','')
                 print(command)
     except:
         pass
     return command
 
-def run_myalexa():
+def run_myassistant():
     command = i_command()
     print(command)
     if 'play' in command:
@@ -53,4 +53,4 @@ def run_myalexa():
         talk('please say it again')
 
 while True:
-   run_myalexa()
+   run_myassistant()
