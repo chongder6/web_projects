@@ -1,14 +1,14 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
-<h1 align="center">Hi 👋, I'm Arijit Chongder</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h1 align="center"> привет 👋, I'm Arijit Chongder</h1>
+<h3 align="center"> Технофил from India</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chongder6&label=Profile%20views&color=0e75b6&style=flat" alt="chongder6" /> </p>
 
-- 🌱 I’m currently learning **Rust | C#**
+- 🌱 I’m currently learning **Rust | Cloud**
 
-- 💬 Ask me about **Deep learning | C# | DSA**
+- 💬 Ask me about **Deep learning | Python | DSA**
 
-- 📫 How to reach me **arjeet.12s@gmail.com**
+- 📫 How to reach me **arijitchongder3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
