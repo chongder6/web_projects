@@ -1,52 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>First Page</title>
-    <link rel="stylesheet" href="first.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home Page</title>
+  <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="first.css">
 </head>
-
 <body>
-    <div class="bgAnimation" id="bgAnimation"></div>
-    <div class="backgroundAmim">
+  <!-- Navigation Bar -->
+  <nav class="navbar">
+    <div class="brand">ARTHA VRTTA</div>
+    <ul class="nav-links">
+      <li><a href="#">Home</a></li>
+      <li><a href="login.html">Login</a></li>
+      <li><a href="signup.html" target="_blank">Signup</a></li>
+      <li><a href="blog.html">Blog</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
 
+  <!-- Main Content -->
+  <div class="main-container">
+    <h1 class="title">PROFIT PLAYBOOK</h1>
+    <div class="flex-container">
+      <div class="flex-item">
+        <h2>Stock Market Insights</h2>
+        <p>Explore trends, tips, and analysis for the stock market. Stay informed with our daily reports and market forecasts.</p>
+      </div>
+      <div class="flex-item">
+        <h2>Finance Fundamentals</h2>
+        <p>Learn the basics of finance to manage your personal and business finances better. Master budgeting, investing, and more.</p>
+      </div>
+      <div class="flex-item">
+        <h2>Profit Strategies</h2>
+        <p>Discover strategies to increase profitability. From long-term investments to short-term gains, maximize your financial growth.</p>
+      </div>
     </div>
-    </div>
-    <div class="container">
-        <nav>
-            <h1><span>ARTHA</span>VRTTA</h1>
-            <ul>
-                <li>Home</li>
-                <li>Login</li>
-                <li>Collaborate</li>
-                <li>Blog</li>
-                <li>Contact</li>
-            </ul>
-        </nav>
-        <section>
-            <div class="textBox">
-                <h1><span>PROFIT</span>
-                    PLAYBOOK</h1>
-                <p>Maintaining a trading journal is essential for long-term success in the markets. <br>It allows you to
-                    document every trade, helping you analyze your decisions objectively.<br> By recording your
-                    strategies,
-                    emotions, and outcomes, you can identify patterns, strengths, and weaknesses.</p>
-
-                <p> A journal serves as a roadmap for continuous improvement, helping you refine your approach, avoid
-                    repeated<br> mistakes, and build discipline.<br> It also helps track your progress over time,
-                    offering
-                    valuable
-                    insights into your growth as a trader. Ultimately,<br>a well-kept journal is your personal guide to
-                    developing consistency and better decision-making in trading.</p>
-                <button class="homeBtn" style="--i:#fff;">Join US</button>
-                <button class="homeBtn" style="--i: #ff6347;">Learn More</button>
-            </div>
-        </section>
-    </div>
-
-    <script src="first.js"></script>
+  </div>
 </body>
-
 </html>
